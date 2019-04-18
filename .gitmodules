@@ -1,0 +1,4 @@
+[submodule "MartijnKluijtmans/field-service"]
+	path = MartijnKluijtmans/field-service
+	url = git@github.com:MartijnKluijtmans/field-service.git
+	branch = 12.0
