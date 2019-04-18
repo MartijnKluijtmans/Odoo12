@@ -2,3 +2,8 @@
 	path = MartijnKluijtmans/field-service
 	url = git@github.com:MartijnKluijtmans/field-service.git
 	branch = 12.0
+
+[submodule "OCA/web"]
+	path = OCA/web
+	url = git@github.com:OCA/web.git
+	branch = 12.0
